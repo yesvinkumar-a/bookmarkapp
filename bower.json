@@ -1,0 +1,22 @@
+{
+  "name": "bookmarkapp",
+  "description": "This application helps to user to add their favourite links for feature reference.",
+  "main": "index.js",
+  "authors": [
+    "yesvinkumar a"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yesvinkumar-a/bookmarkapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
