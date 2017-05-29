@@ -1,5 +1,5 @@
 # bookmarkapp
-This application helps the users to add their favourite links for future reference.
+This simple application helps the users to add their favourite links for future reference.
 
 ## May 28, 2017 - Project Day 1 - Workspace Setup  ##
 
