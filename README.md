@@ -25,3 +25,14 @@ For a beginner CLI users, follow the below steps
 ## May 29, 2017 - Project Day 2 - Page Setup  ##
 
 Copy and replace the index.html to create a basic page.
+
+## May 30, 2017 - Project Day 3 - Database Setup  ##
+
+Create a mysql database and bookmarks_details table in your XAMPP or WAMP to store bookmark link and category
+Find bookmark_list_db.txt for reference.
+
+Insert few data's into the table to check everything works fine.
+
+## May 31, 2017 - Project Day 4 - Retrieve Data from database  ##
+
+To retrieve data we need json.php file 

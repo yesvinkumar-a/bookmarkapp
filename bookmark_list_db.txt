@@ -1,0 +1,8 @@
+CREATE TABLE `bookmark_details` (
+`id` int(1) NOT NULL,
+ `link` varchar(500) NOT NULL,
+ `category` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+ALTER TABLE `bookmark_details` ADD PRIMARY KEY (`id`);
+ALTER TABLE `bookmark_details` MODIFY `id` int(1) NOT NULL AUTO_INCREMENT;
