@@ -35,4 +35,12 @@ Insert few data's into the table to check everything works fine.
 
 ## May 31, 2017 - Project Day 4 - Retrieve Data from database  ##
 
-To retrieve data we need json.php file 
+To retrieve data we need bookmark_list.php file along with db.php to communicate with the server
+Find the files in the folder called php-code
+
+## June 01, 2017 - Project Day 5 - Insert Data to database  ##
+
+Click on Add a New Link button to open a popup to add a new link
+Add a new link and category fields and click submit.
+
+Then, the typed data has been inserted in a bookmarks table.
